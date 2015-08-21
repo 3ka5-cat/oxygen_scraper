@@ -1,0 +1,21 @@
+# temporary files
+*.swp
+*.pyc
+*.swo
+*.swn
+*.*~
+.DS_Store
+*.~lock*
+
+# IDEs (boo)
+*.sqlite3
+.project
+.pydevproject
+.settings
+.idea
+
+venv
+
+# scraping results and temporary files
+oxygendemo/*.json
+oxygendemo/*.txt

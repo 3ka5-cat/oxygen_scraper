@@ -1,0 +1,3 @@
+scrapy==0.16.3      # don't ask me why, but one of conditions of this test project was this scrapy version
+service_identity
+pyquery             # this is also one of conditions, instead of xpath
